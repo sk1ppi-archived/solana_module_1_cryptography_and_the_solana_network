@@ -2,7 +2,7 @@
 
 ![Made by](https://img.shields.io/badge/SK1PPI-8A2BE2)
 ![GitHub License](https://img.shields.io/github/license/sk1ppi/solana_module_1_cryptography_and_the_solana_network)
-![NPM Version](https://img.shields.io/npm/v/%40sk1ppi%solana-module-1-cryptography-and-the-solana-network)
+![NPM Version](https://img.shields.io/npm/v/@sk1ppi/solana-module-1-cryptography-and-the-solana-network)
 
 This package is a part of the [Solana Development Course](https://www.soldev.app/course) by [James Pacheco](https://twitter.com/jamesrp13) and [others](https://github.com/Unboxed-Software/solana-course/graphs/contributors?type=a). 
 It contains the code for the first module of the bootcamp, which is about cryptography and the Solana network.
