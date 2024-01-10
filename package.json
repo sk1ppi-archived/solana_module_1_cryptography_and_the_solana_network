@@ -1,5 +1,5 @@
 {
-  "name": "solana-module-1-cryptography-and-the-solana-network",
+  "name": "@sk1ppi/solana-module-1-cryptography-and-the-solana-network",
   "version": "1.0.0",
   "description": "This package is a part of the Solana Development Course by James Pacheco and others. It contains the code for the first module of the bootcamp, which is about cryptography and the Solana network.",
   "main": "index.js",
